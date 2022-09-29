@@ -1,0 +1,251 @@
+﻿id;name;iso3;capital;currency;currency_name;currency_symbol;tld;native;region;subregion
+1;Afghanistan;AFG;Kabul;AFN;Afghan afghani;؋;.af;افغانستان;Asia;Southern Asia
+2;Aland Islands;ALA;Mariehamn;EUR;Euro;€;.ax;Åland;Europe;Northern Europe
+3;Albania;ALB;Tirana;ALL;Albanian lek;Lek;.al;Shqipëria;Europe;Southern Europe
+4;Algeria;DZA;Algiers;DZD;Algerian dinar;دج;.dz;الجزائر;Africa;Northern Africa
+5;American Samoa;ASM;Pago Pago;USD;US Dollar;$;.as;American Samoa;Oceania;Polynesia
+6;Andorra;AND;Andorra la Vella;EUR;Euro;€;.ad;Andorra;Europe;Southern Europe
+7;Angola;AGO;Luanda;AOA;Angolan kwanza;Kz;.ao;Angola;Africa;Middle Africa
+8;Anguilla;AIA;The Valley;XCD;East Caribbean dollar;$;.ai;Anguilla;Americas;Caribbean
+9;Antarctica;ATA;;AAD;Antarctican dollar;$;.aq;Antarctica;Polar;
+10;Antigua And Barbuda;ATG;St. John's;XCD;Eastern Caribbean dollar;$;.ag;Antigua and Barbuda;Americas;Caribbean
+11;Argentina;ARG;Buenos Aires;ARS;Argentine peso;$;.ar;Argentina;Americas;South America
+12;Armenia;ARM;Yerevan;AMD;Armenian dram;֏;.am;Հայաստան;Asia;Western Asia
+13;Aruba;ABW;Oranjestad;AWG;Aruban florin;ƒ;.aw;Aruba;Americas;Caribbean
+14;Australia;AUS;Canberra;AUD;Australian dollar;$;.au;Australia;Oceania;Australia and New Zealand
+15;Austria;AUT;Vienna;EUR;Euro;€;.at;Österreich;Europe;Western Europe
+16;Azerbaijan;AZE;Baku;AZN;Azerbaijani manat;m;.az;Azərbaycan;Asia;Western Asia
+17;Bahamas The;BHS;Nassau;BSD;Bahamian dollar;B$;.bs;Bahamas;Americas;Caribbean
+18;Bahrain;BHR;Manama;BHD;Bahraini dinar;.د.ب;.bh;‏البحرين;Asia;Western Asia
+19;Bangladesh;BGD;Dhaka;BDT;Bangladeshi taka;৳;.bd;Bangladesh;Asia;Southern Asia
+20;Barbados;BRB;Bridgetown;BBD;Barbadian dollar;Bds$;.bb;Barbados;Americas;Caribbean
+21;Belarus;BLR;Minsk;BYN;Belarusian ruble;Br;.by;Белару́сь;Europe;Eastern Europe
+22;Belgium;BEL;Brussels;EUR;Euro;€;.be;België;Europe;Western Europe
+23;Belize;BLZ;Belmopan;BZD;Belize dollar;$;.bz;Belize;Americas;Central America
+24;Benin;BEN;Porto-Novo;XOF;West African CFA franc;CFA;.bj;Bénin;Africa;Western Africa
+25;Bermuda;BMU;Hamilton;BMD;Bermudian dollar;$;.bm;Bermuda;Americas;Northern America
+26;Bhutan;BTN;Thimphu;BTN;Bhutanese ngultrum;Nu.;.bt;ʼbrug-yul;Asia;Southern Asia
+27;Bolivia;BOL;Sucre;BOB;Bolivian boliviano;Bs.;.bo;Bolivia;Americas;South America
+28;Bosnia and Herzegovina;BIH;Sarajevo;BAM;Bosnia and Herzegovina convertible mark;KM;.ba;Bosna i Hercegovina;Europe;Southern Europe
+29;Botswana;BWA;Gaborone;BWP;Botswana pula;P;.bw;Botswana;Africa;Southern Africa
+30;Bouvet Island;BVT;;NOK;Norwegian Krone;kr;.bv;Bouvetøya;;
+31;Brazil;BRA;Brasilia;BRL;Brazilian real;R$;.br;Brasil;Americas;South America
+32;British Indian Ocean Territory;IOT;Diego Garcia;USD;United States dollar;$;.io;British Indian Ocean Territory;Africa;Eastern Africa
+33;Brunei;BRN;Bandar Seri Begawan;BND;Brunei dollar;B$;.bn;Negara Brunei Darussalam;Asia;South-Eastern Asia
+34;Bulgaria;BGR;Sofia;BGN;Bulgarian lev;Лв.;.bg;България;Europe;Eastern Europe
+35;Burkina Faso;BFA;Ouagadougou;XOF;West African CFA franc;CFA;.bf;Burkina Faso;Africa;Western Africa
+36;Burundi;BDI;Bujumbura;BIF;Burundian franc;FBu;.bi;Burundi;Africa;Eastern Africa
+37;Cambodia;KHM;Phnom Penh;KHR;Cambodian riel;KHR;.kh;Kâmpŭchéa;Asia;South-Eastern Asia
+38;Cameroon;CMR;Yaounde;XAF;Central African CFA franc;FCFA;.cm;Cameroon;Africa;Middle Africa
+39;Canada;CAN;Ottawa;CAD;Canadian dollar;$;.ca;Canada;Americas;Northern America
+40;Cape Verde;CPV;Praia;CVE;Cape Verdean escudo;$;.cv;Cabo Verde;Africa;Western Africa
+41;Cayman Islands;CYM;George Town;KYD;Cayman Islands dollar;$;.ky;Cayman Islands;Americas;Caribbean
+42;Central African Republic;CAF;Bangui;XAF;Central African CFA franc;FCFA;.cf;Ködörösêse tî Bêafrîka;Africa;Middle Africa
+43;Chad;TCD;N'Djamena;XAF;Central African CFA franc;FCFA;.td;Tchad;Africa;Middle Africa
+44;Chile;CHL;Santiago;CLP;Chilean peso;$;.cl;Chile;Americas;South America
+45;China;CHN;Beijing;CNY;Chinese yuan;¥;.cn;中国;Asia;Eastern Asia
+46;Christmas Island;CXR;Flying Fish Cove;AUD;Australian dollar;$;.cx;Christmas Island;Oceania;Australia and New Zealand
+47;Cocos (Keeling) Islands;CCK;West Island;AUD;Australian dollar;$;.cc;Cocos (Keeling) Islands;Oceania;Australia and New Zealand
+48;Colombia;COL;Bogotá;COP;Colombian peso;$;.co;Colombia;Americas;South America
+49;Comoros;COM;Moroni;KMF;Comorian franc;CF;.km;Komori;Africa;Eastern Africa
+50;Congo;COG;Brazzaville;XAF;Central African CFA franc;FC;.cg;République du Congo;Africa;Middle Africa
+51;Democratic Republic of the Congo;COD;Kinshasa;CDF;Congolese Franc;FC;.cd;République démocratique du Congo;Africa;Middle Africa
+52;Cook Islands;COK;Avarua;NZD;Cook Islands dollar;$;.ck;Cook Islands;Oceania;Polynesia
+53;Costa Rica;CRI;San Jose;CRC;Costa Rican colón;₡;.cr;Costa Rica;Americas;Central America
+54;Cote D'Ivoire (Ivory Coast);CIV;Yamoussoukro;XOF;West African CFA franc;CFA;.ci;NULL;Africa;Western Africa
+55;Croatia;HRV;Zagreb;HRK;Croatian kuna;kn;.hr;Hrvatska;Europe;Southern Europe
+56;Cuba;CUB;Havana;CUP;Cuban peso;$;.cu;Cuba;Americas;Caribbean
+57;Cyprus;CYP;Nicosia;EUR;Euro;€;.cy;Κύπρος;Europe;Southern Europe
+58;Czech Republic;CZE;Prague;CZK;Czech koruna;Kč;.cz;Česká republika;Europe;Eastern Europe
+59;Denmark;DNK;Copenhagen;DKK;Danish krone;Kr.;.dk;Danmark;Europe;Northern Europe
+60;Djibouti;DJI;Djibouti;DJF;Djiboutian franc;Fdj;.dj;Djibouti;Africa;Eastern Africa
+61;Dominica;DMA;Roseau;XCD;Eastern Caribbean dollar;$;.dm;Dominica;Americas;Caribbean
+62;Dominican Republic;DOM;Santo Domingo;DOP;Dominican peso;$;.do;República Dominicana;Americas;Caribbean
+63;East Timor;TLS;Dili;USD;United States dollar;$;.tl;Timor-Leste;Asia;South-Eastern Asia
+64;Ecuador;ECU;Quito;USD;United States dollar;$;.ec;Ecuador;Americas;South America
+65;Egypt;EGY;Cairo;EGP;Egyptian pound;ج.م;.eg;مصر‎;Africa;Northern Africa
+66;El Salvador;SLV;San Salvador;USD;United States dollar;$;.sv;El Salvador;Americas;Central America
+67;Equatorial Guinea;GNQ;Malabo;XAF;Central African CFA franc;FCFA;.gq;Guinea Ecuatorial;Africa;Middle Africa
+68;Eritrea;ERI;Asmara;ERN;Eritrean nakfa;Nfk;.er;ኤርትራ;Africa;Eastern Africa
+69;Estonia;EST;Tallinn;EUR;Euro;€;.ee;Eesti;Europe;Northern Europe
+70;Ethiopia;ETH;Addis Ababa;ETB;Ethiopian birr;Nkf;.et;ኢትዮጵያ;Africa;Eastern Africa
+71;Falkland Islands;FLK;Stanley;FKP;Falkland Islands pound;£;.fk;Falkland Islands;Americas;South America
+72;Faroe Islands;FRO;Torshavn;DKK;Danish krone;Kr.;.fo;Føroyar;Europe;Northern Europe
+73;Fiji Islands;FJI;Suva;FJD;Fijian dollar;FJ$;.fj;Fiji;Oceania;Melanesia
+74;Finland;FIN;Helsinki;EUR;Euro;€;.fi;Suomi;Europe;Northern Europe
+75;France;FRA;Paris;EUR;Euro;€;.fr;France;Europe;Western Europe
+76;French Guiana;GUF;Cayenne;EUR;Euro;€;.gf;Guyane française;Americas;South America
+77;French Polynesia;PYF;Papeete;XPF;CFP franc;₣;.pf;Polynésie française;Oceania;Polynesia
+78;French Southern Territories;ATF;Port-aux-Francais;EUR;Euro;€;.tf;Territoire des Terres australes et antarctiques fr;Africa;Southern Africa
+79;Gabon;GAB;Libreville;XAF;Central African CFA franc;FCFA;.ga;Gabon;Africa;Middle Africa
+80;Gambia The;GMB;Banjul;GMD;Gambian dalasi;D;.gm;Gambia;Africa;Western Africa
+81;Georgia;GEO;Tbilisi;GEL;Georgian lari;ლ;.ge;საქართველო;Asia;Western Asia
+82;Germany;DEU;Berlin;EUR;Euro;€;.de;Deutschland;Europe;Western Europe
+83;Ghana;GHA;Accra;GHS;Ghanaian cedi;GH₵;.gh;Ghana;Africa;Western Africa
+84;Gibraltar;GIB;Gibraltar;GIP;Gibraltar pound;£;.gi;Gibraltar;Europe;Southern Europe
+85;Greece;GRC;Athens;EUR;Euro;€;.gr;Ελλάδα;Europe;Southern Europe
+86;Greenland;GRL;Nuuk;DKK;Danish krone;Kr.;.gl;Kalaallit Nunaat;Americas;Northern America
+87;Grenada;GRD;St. George's;XCD;Eastern Caribbean dollar;$;.gd;Grenada;Americas;Caribbean
+88;Guadeloupe;GLP;Basse-Terre;EUR;Euro;€;.gp;Guadeloupe;Americas;Caribbean
+89;Guam;GUM;Hagatna;USD;US Dollar;$;.gu;Guam;Oceania;Micronesia
+90;Guatemala;GTM;Guatemala City;GTQ;Guatemalan quetzal;Q;.gt;Guatemala;Americas;Central America
+91;Guernsey and Alderney;GGY;St Peter Port;GBP;British pound;£;.gg;Guernsey;Europe;Northern Europe
+92;Guinea;GIN;Conakry;GNF;Guinean franc;FG;.gn;Guinée;Africa;Western Africa
+93;Guinea-Bissau;GNB;Bissau;XOF;West African CFA franc;CFA;.gw;Guiné-Bissau;Africa;Western Africa
+94;Guyana;GUY;Georgetown;GYD;Guyanese dollar;$;.gy;Guyana;Americas;South America
+95;Haiti;HTI;Port-au-Prince;HTG;Haitian gourde;G;.ht;Haïti;Americas;Caribbean
+96;Heard Island and McDonald Islands;HMD;;AUD;Australian dollar;$;.hm;Heard Island and McDonald Islands;;
+97;Honduras;HND;Tegucigalpa;HNL;Honduran lempira;L;.hn;Honduras;Americas;Central America
+98;Hong Kong S.A.R.;HKG;Hong Kong;HKD;Hong Kong dollar;$;.hk;香港;Asia;Eastern Asia
+99;Hungary;HUN;Budapest;HUF;Hungarian forint;Ft;.hu;Magyarország;Europe;Eastern Europe
+100;Iceland;ISL;Reykjavik;ISK;Icelandic króna;kr;.is;Ísland;Europe;Northern Europe
+101;India;IND;New Delhi;INR;Indian rupee;₹;.in;भारत;Asia;Southern Asia
+102;Indonesia;IDN;Jakarta;IDR;Indonesian rupiah;Rp;.id;Indonesia;Asia;South-Eastern Asia
+103;Iran;IRN;Tehran;IRR;Iranian rial;﷼;.ir;ایران;Asia;Southern Asia
+104;Iraq;IRQ;Baghdad;IQD;Iraqi dinar;د.ع;.iq;العراق;Asia;Western Asia
+105;Ireland;IRL;Dublin;EUR;Euro;€;.ie;Éire;Europe;Northern Europe
+106;Israel;ISR;Jerusalem;ILS;Israeli new shekel;₪;.il;יִשְׂרָאֵל;Asia;Western Asia
+107;Italy;ITA;Rome;EUR;Euro;€;.it;Italia;Europe;Southern Europe
+108;Jamaica;JAM;Kingston;JMD;Jamaican dollar;J$;.jm;Jamaica;Americas;Caribbean
+109;Japan;JPN;Tokyo;JPY;Japanese yen;¥;.jp;日本;Asia;Eastern Asia
+110;Jersey;JEY;Saint Helier;GBP;British pound;£;.je;Jersey;Europe;Northern Europe
+111;Jordan;JOR;Amman;JOD;Jordanian dinar;ا.د;.jo;الأردن;Asia;Western Asia
+112;Kazakhstan;KAZ;Astana;KZT;Kazakhstani tenge;лв;.kz;Қазақстан;Asia;Central Asia
+113;Kenya;KEN;Nairobi;KES;Kenyan shilling;KSh;.ke;Kenya;Africa;Eastern Africa
+114;Kiribati;KIR;Tarawa;AUD;Australian dollar;$;.ki;Kiribati;Oceania;Micronesia
+115;North Korea;PRK;Pyongyang;KPW;North Korean Won;₩;.kp;북한;Asia;Eastern Asia
+116;South Korea;KOR;Seoul;KRW;Won;₩;.kr;대한민국;Asia;Eastern Asia
+117;Kuwait;KWT;Kuwait City;KWD;Kuwaiti dinar;ك.د;.kw;الكويت;Asia;Western Asia
+118;Kyrgyzstan;KGZ;Bishkek;KGS;Kyrgyzstani som;лв;.kg;Кыргызстан;Asia;Central Asia
+119;Laos;LAO;Vientiane;LAK;Lao kip;₭;.la;ສປປລາວ;Asia;South-Eastern Asia
+120;Latvia;LVA;Riga;EUR;Euro;€;.lv;Latvija;Europe;Northern Europe
+121;Lebanon;LBN;Beirut;LBP;Lebanese pound;£;.lb;لبنان;Asia;Western Asia
+122;Lesotho;LSO;Maseru;LSL;Lesotho loti;L;.ls;Lesotho;Africa;Southern Africa
+123;Liberia;LBR;Monrovia;LRD;Liberian dollar;$;.lr;Liberia;Africa;Western Africa
+124;Libya;LBY;Tripolis;LYD;Libyan dinar;د.ل;.ly;‏ليبيا;Africa;Northern Africa
+125;Liechtenstein;LIE;Vaduz;CHF;Swiss franc;CHf;.li;Liechtenstein;Europe;Western Europe
+126;Lithuania;LTU;Vilnius;EUR;Euro;€;.lt;Lietuva;Europe;Northern Europe
+127;Luxembourg;LUX;Luxembourg;EUR;Euro;€;.lu;Luxembourg;Europe;Western Europe
+128;Macau S.A.R.;MAC;Macao;MOP;Macanese pataca;$;.mo;澳門;Asia;Eastern Asia
+129;Macedonia;MKD;Skopje;MKD;Denar;ден;.mk;Северна Македонија;Europe;Southern Europe
+130;Madagascar;MDG;Antananarivo;MGA;Malagasy ariary;Ar;.mg;Madagasikara;Africa;Eastern Africa
+131;Malawi;MWI;Lilongwe;MWK;Malawian kwacha;MK;.mw;Malawi;Africa;Eastern Africa
+132;Malaysia;MYS;Kuala Lumpur;MYR;Malaysian ringgit;RM;.my;Malaysia;Asia;South-Eastern Asia
+133;Maldives;MDV;Male;MVR;Maldivian rufiyaa;Rf;.mv;Maldives;Asia;Southern Asia
+134;Mali;MLI;Bamako;XOF;West African CFA franc;CFA;.ml;Mali;Africa;Western Africa
+135;Malta;MLT;Valletta;EUR;Euro;€;.mt;Malta;Europe;Southern Europe
+136;Man (Isle of);IMN;Douglas, Isle of Man;GBP;British pound;£;.im;Isle of Man;Europe;Northern Europe
+137;Marshall Islands;MHL;Majuro;USD;United States dollar;$;.mh;M̧ajeļ;Oceania;Micronesia
+138;Martinique;MTQ;Fort-de-France;EUR;Euro;€;.mq;Martinique;Americas;Caribbean
+139;Mauritania;MRT;Nouakchott;MRO;Mauritanian ouguiya;MRU;.mr;موريتانيا;Africa;Western Africa
+140;Mauritius;MUS;Port Louis;MUR;Mauritian rupee;₨;.mu;Maurice;Africa;Eastern Africa
+141;Mayotte;MYT;Mamoudzou;EUR;Euro;€;.yt;Mayotte;Africa;Eastern Africa
+142;Mexico;MEX;Mexico City;MXN;Mexican peso;$;.mx;México;Americas;Central America
+143;Micronesia;FSM;Palikir;USD;United States dollar;$;.fm;Micronesia;Oceania;Micronesia
+144;Moldova;MDA;Chisinau;MDL;Moldovan leu;L;.md;Moldova;Europe;Eastern Europe
+145;Monaco;MCO;Monaco;EUR;Euro;€;.mc;Monaco;Europe;Western Europe
+146;Mongolia;MNG;Ulan Bator;MNT;Mongolian tögrög;₮;.mn;Монгол улс;Asia;Eastern Asia
+147;Montenegro;MNE;Podgorica;EUR;Euro;€;.me;Црна Гора;Europe;Southern Europe
+148;Montserrat;MSR;Plymouth;XCD;Eastern Caribbean dollar;$;.ms;Montserrat;Americas;Caribbean
+149;Morocco;MAR;Rabat;MAD;Moroccan dirham;DH;.ma;المغرب;Africa;Northern Africa
+150;Mozambique;MOZ;Maputo;MZN;Mozambican metical;MT;.mz;Moçambique;Africa;Eastern Africa
+151;Myanmar;MMR;Nay Pyi Taw;MMK;Burmese kyat;K;.mm;မြန်မာ;Asia;South-Eastern Asia
+152;Namibia;NAM;Windhoek;NAD;Namibian dollar;$;.na;Namibia;Africa;Southern Africa
+153;Nauru;NRU;Yaren;AUD;Australian dollar;$;.nr;Nauru;Oceania;Micronesia
+154;Nepal;NPL;Kathmandu;NPR;Nepalese rupee;₨;.np;नपल;Asia;Southern Asia
+155;Bonaire, Sint Eustatius and Saba;BES;Kralendijk;USD;United States dollar;$;.an;Caribisch Nederland;Americas;Caribbean
+156;Netherlands;NLD;Amsterdam;EUR;Euro;€;.nl;Nederland;Europe;Western Europe
+157;New Caledonia;NCL;Noumea;XPF;CFP franc;₣;.nc;Nouvelle-Calédonie;Oceania;Melanesia
+158;New Zealand;NZL;Wellington;NZD;New Zealand dollar;$;.nz;New Zealand;Oceania;Australia and New Zealand
+159;Nicaragua;NIC;Managua;NIO;Nicaraguan córdoba;C$;.ni;Nicaragua;Americas;Central America
+160;Niger;NER;Niamey;XOF;West African CFA franc;CFA;.ne;Niger;Africa;Western Africa
+161;Nigeria;NGA;Abuja;NGN;Nigerian naira;₦;.ng;Nigeria;Africa;Western Africa
+162;Niue;NIU;Alofi;NZD;New Zealand dollar;$;.nu;Niuē;Oceania;Polynesia
+163;Norfolk Island;NFK;Kingston;AUD;Australian dollar;$;.nf;Norfolk Island;Oceania;Australia and New Zealand
+164;Northern Mariana Islands;MNP;Saipan;USD;United States dollar;$;.mp;Northern Mariana Islands;Oceania;Micronesia
+165;Norway;NOR;Oslo;NOK;Norwegian krone;kr;.no;Norge;Europe;Northern Europe
+166;Oman;OMN;Muscat;OMR;Omani rial;.ع.ر;.om;عمان;Asia;Western Asia
+167;Pakistan;PAK;Islamabad;PKR;Pakistani rupee;₨;.pk;Pakistan;Asia;Southern Asia
+168;Palau;PLW;Melekeok;USD;United States dollar;$;.pw;Palau;Oceania;Micronesia
+169;Palestinian Territory Occupied;PSE;East Jerusalem;ILS;Israeli new shekel;₪;.ps;فلسطين;Asia;Western Asia
+170;Panama;PAN;Panama City;PAB;Panamanian balboa;B/.;.pa;Panamá;Americas;Central America
+171;Papua new Guinea;PNG;Port Moresby;PGK;Papua New Guinean kina;K;.pg;Papua Niugini;Oceania;Melanesia
+172;Paraguay;PRY;Asuncion;PYG;Paraguayan guarani;₲;.py;Paraguay;Americas;South America
+173;Peru;PER;Lima;PEN;Peruvian sol;S/.;.pe;Perú;Americas;South America
+174;Philippines;PHL;Manila;PHP;Philippine peso;₱;.ph;Pilipinas;Asia;South-Eastern Asia
+175;Pitcairn Island;PCN;Adamstown;NZD;New Zealand dollar;$;.pn;Pitcairn Islands;Oceania;Polynesia
+176;Poland;POL;Warsaw;PLN;Polish złoty;zł;.pl;Polska;Europe;Eastern Europe
+177;Portugal;PRT;Lisbon;EUR;Euro;€;.pt;Portugal;Europe;Southern Europe
+178;Puerto Rico;PRI;San Juan;USD;United States dollar;$;.pr;Puerto Rico;Americas;Caribbean
+179;Qatar;QAT;Doha;QAR;Qatari riyal;ق.ر;.qa;قطر;Asia;Western Asia
+180;Reunion;REU;Saint-Denis;EUR;Euro;€;.re;La Réunion;Africa;Eastern Africa
+181;Romania;ROU;Bucharest;RON;Romanian leu;lei;.ro;România;Europe;Eastern Europe
+182;Russia;RUS;Moscow;RUB;Russian ruble;₽;.ru;Россия;Europe;Eastern Europe
+183;Rwanda;RWA;Kigali;RWF;Rwandan franc;FRw;.rw;Rwanda;Africa;Eastern Africa
+184;Saint Helena;SHN;Jamestown;SHP;Saint Helena pound;£;.sh;Saint Helena;Africa;Western Africa
+185;Saint Kitts And Nevis;KNA;Basseterre;XCD;Eastern Caribbean dollar;$;.kn;Saint Kitts and Nevis;Americas;Caribbean
+186;Saint Lucia;LCA;Castries;XCD;Eastern Caribbean dollar;$;.lc;Saint Lucia;Americas;Caribbean
+187;Saint Pierre and Miquelon;SPM;Saint-Pierre;EUR;Euro;€;.pm;Saint-Pierre-et-Miquelon;Americas;Northern America
+188;Saint Vincent And The Grenadines;VCT;Kingstown;XCD;Eastern Caribbean dollar;$;.vc;Saint Vincent and the Grenadines;Americas;Caribbean
+189;Saint-Barthelemy;BLM;Gustavia;EUR;Euro;€;.bl;Saint-Barthélemy;Americas;Caribbean
+190;Saint-Martin (French part);MAF;Marigot;EUR;Euro;€;.mf;Saint-Martin;Americas;Caribbean
+191;Samoa;WSM;Apia;WST;Samoan tālā;SAT;.ws;Samoa;Oceania;Polynesia
+192;San Marino;SMR;San Marino;EUR;Euro;€;.sm;San Marino;Europe;Southern Europe
+193;Sao Tome and Principe;STP;Sao Tome;STD;Dobra;Db;.st;São Tomé e Príncipe;Africa;Middle Africa
+194;Saudi Arabia;SAU;Riyadh;SAR;Saudi riyal;﷼;.sa;المملكة العربية السعودية;Asia;Western Asia
+195;Senegal;SEN;Dakar;XOF;West African CFA franc;CFA;.sn;Sénégal;Africa;Western Africa
+196;Serbia;SRB;Belgrade;RSD;Serbian dinar;din;.rs;Србија;Europe;Southern Europe
+197;Seychelles;SYC;Victoria;SCR;Seychellois rupee;SRe;.sc;Seychelles;Africa;Eastern Africa
+198;Sierra Leone;SLE;Freetown;SLL;Sierra Leonean leone;Le;.sl;Sierra Leone;Africa;Western Africa
+199;Singapore;SGP;Singapur;SGD;Singapore dollar;$;.sg;Singapore;Asia;South-Eastern Asia
+200;Slovakia;SVK;Bratislava;EUR;Euro;€;.sk;Slovensko;Europe;Eastern Europe
+201;Slovenia;SVN;Ljubljana;EUR;Euro;€;.si;Slovenija;Europe;Southern Europe
+202;Solomon Islands;SLB;Honiara;SBD;Solomon Islands dollar;Si$;.sb;Solomon Islands;Oceania;Melanesia
+203;Somalia;SOM;Mogadishu;SOS;Somali shilling;Sh.so.;.so;Soomaaliya;Africa;Eastern Africa
+204;South Africa;ZAF;Pretoria;ZAR;South African rand;R;.za;South Africa;Africa;Southern Africa
+205;South Georgia;SGS;Grytviken;GBP;British pound;£;.gs;South Georgia;Americas;South America
+206;South Sudan;SSD;Juba;SSP;South Sudanese pound;£;.ss;South Sudan;Africa;Middle Africa
+207;Spain;ESP;Madrid;EUR;Euro;€;.es;España;Europe;Southern Europe
+208;Sri Lanka;LKA;Colombo;LKR;Sri Lankan rupee;Rs;.lk;śrī laṃkāva;Asia;Southern Asia
+209;Sudan;SDN;Khartoum;SDG;Sudanese pound;.س.ج;.sd;السودان;Africa;Northern Africa
+210;Suriname;SUR;Paramaribo;SRD;Surinamese dollar;$;.sr;Suriname;Americas;South America
+211;Svalbard And Jan Mayen Islands;SJM;Longyearbyen;NOK;Norwegian Krone;kr;.sj;Svalbard og Jan Mayen;Europe;Northern Europe
+212;Swaziland;SWZ;Mbabane;SZL;Lilangeni;E;.sz;Swaziland;Africa;Southern Africa
+213;Sweden;SWE;Stockholm;SEK;Swedish krona;kr;.se;Sverige;Europe;Northern Europe
+214;Switzerland;CHE;Bern;CHF;Swiss franc;CHf;.ch;Schweiz;Europe;Western Europe
+215;Syria;SYR;Damascus;SYP;Syrian pound;LS;.sy;سوريا;Asia;Western Asia
+216;Taiwan;TWN;Taipei;TWD;New Taiwan dollar;$;.tw;臺灣;Asia;Eastern Asia
+217;Tajikistan;TJK;Dushanbe;TJS;Tajikistani somoni;SM;.tj;Тоҷикистон;Asia;Central Asia
+218;Tanzania;TZA;Dodoma;TZS;Tanzanian shilling;TSh;.tz;Tanzania;Africa;Eastern Africa
+219;Thailand;THA;Bangkok;THB;Thai baht;฿;.th;ประเทศไทย;Asia;South-Eastern Asia
+220;Togo;TGO;Lome;XOF;West African CFA franc;CFA;.tg;Togo;Africa;Western Africa
+221;Tokelau;TKL;;NZD;New Zealand dollar;$;.tk;Tokelau;Oceania;Polynesia
+222;Tonga;TON;Nuku'alofa;TOP;Tongan paʻanga;$;.to;Tonga;Oceania;Polynesia
+223;Trinidad And Tobago;TTO;Port of Spain;TTD;Trinidad and Tobago dollar;$;.tt;Trinidad and Tobago;Americas;Caribbean
+224;Tunisia;TUN;Tunis;TND;Tunisian dinar;ت.د;.tn;تونس;Africa;Northern Africa
+225;Turkey;TUR;Ankara;TRY;Turkish lira;₺;.tr;Türkiye;Asia;Western Asia
+226;Turkmenistan;TKM;Ashgabat;TMT;Turkmenistan manat;T;.tm;Türkmenistan;Asia;Central Asia
+227;Turks And Caicos Islands;TCA;Cockburn Town;USD;United States dollar;$;.tc;Turks and Caicos Islands;Americas;Caribbean
+228;Tuvalu;TUV;Funafuti;AUD;Australian dollar;$;.tv;Tuvalu;Oceania;Polynesia
+229;Uganda;UGA;Kampala;UGX;Ugandan shilling;USh;.ug;Uganda;Africa;Eastern Africa
+230;Ukraine;UKR;Kiev;UAH;Ukrainian hryvnia;₴;.ua;Україна;Europe;Eastern Europe
+231;United Arab Emirates;ARE;Abu Dhabi;AED;United Arab Emirates dirham;إ.د;.ae;دولة الإمارات العربية المتحدة;Asia;Western Asia
+232;United Kingdom;GBR;London;GBP;British pound;£;.uk;United Kingdom;Europe;Northern Europe
+233;United States;USA;Washington;USD;United States dollar;$;.us;United States;Americas;Northern America
+234;United States Minor Outlying Islands;UMI;;USD;United States dollar;$;.us;United States Minor Outlying Islands;Americas;Northern America
+235;Uruguay;URY;Montevideo;UYU;Uruguayan peso;$;.uy;Uruguay;Americas;South America
+236;Uzbekistan;UZB;Tashkent;UZS;Uzbekistani soʻm;лв;.uz;O‘zbekiston;Asia;Central Asia
+237;Vanuatu;VUT;Port Vila;VUV;Vanuatu vatu;VT;.vu;Vanuatu;Oceania;Melanesia
+238;Vatican City State (Holy See);VAT;Vatican City;EUR;Euro;€;.va;Vaticano;Europe;Southern Europe
+239;Venezuela;VEN;Caracas;VEF;Bolívar;Bs;.ve;Venezuela;Americas;South America
+240;Vietnam;VNM;Hanoi;VND;Vietnamese đồng;₫;.vn;Việt Nam;Asia;South-Eastern Asia
+241;Virgin Islands (British);VGB;Road Town;USD;United States dollar;$;.vg;British Virgin Islands;Americas;Caribbean
+242;Virgin Islands (US);VIR;Charlotte Amalie;USD;United States dollar;$;.vi;United States Virgin Islands;Americas;Caribbean
+243;Wallis And Futuna Islands;WLF;Mata Utu;XPF;CFP franc;₣;.wf;Wallis et Futuna;Oceania;Polynesia
+244;Western Sahara;ESH;El-Aaiun;MAD;Moroccan Dirham;MAD;.eh;الصحراء الغربية;Africa;Northern Africa
+245;Yemen;YEM;Sanaa;YER;Yemeni rial;﷼;.ye;اليَمَن;Asia;Western Asia
+246;Zambia;ZMB;Lusaka;ZMW;Zambian kwacha;ZK;.zm;Zambia;Africa;Eastern Africa
+247;Zimbabwe;ZWE;Harare;ZWL;Zimbabwe Dollar;$;.zw;Zimbabwe;Africa;Eastern Africa
+248;Kosovo;XKX;Pristina;EUR;Euro;€;.xk;Republika e Kosovës;Europe;Eastern Europe
+249;Curaçao;CUW;Willemstad;ANG;Netherlands Antillean guilder;ƒ;.cw;Curaçao;Americas;Caribbean
+250;Sint Maarten (Dutch part);SXM;Philipsburg;ANG;Netherlands Antillean guilder;ƒ;.sx;Sint Maarten;Americas;Caribbean
