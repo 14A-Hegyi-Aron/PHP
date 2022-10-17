@@ -10,7 +10,7 @@
                     <a class="nav-link active" href="?page=countriesList">Országok</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="?page=dijasokList">Nobel-díjasok</a>
+                    <a class="nav-link" href="?page=searchList">Nobel-díjasok</a>
                 </li>
             </ul>
         </div>

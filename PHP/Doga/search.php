@@ -2,10 +2,10 @@
 $search = isset($_POST["dijakName"]) ? $_POST["dijakName"] : "";
 ?>
 
-<form class="bg-secondary p-3">
+<form class="bg-secondary p-3" method="POST" action="?page=searchList">
     <div>
         <h2 class="form-label">Nobel-díjasok keresése</h2>
-        <input type="text" class="form-control" id="searchBox" name="search" value="<?php echo $search; ?>">
+        <input type="text" class="form-control" id="searchBox" name="dijakName" value="<?php echo $search; ?>">
     </div>
     <button type="submit" class="btn btn-primary">Keres</button>
 </form>
@@ -18,18 +18,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     foreach ($dijasok->searchDíjak($search) as $key => $value) {
         $list .= "
         <div class='col-sm-6 col-md-4'>
-            <div class='card my-3'>
-                <div class='card-header bg-dark'>$value->name</div>
-                <ul class='list-group list-group-flush'>
+        <div class='card my-3 p-2'>
+            <div class='card-header bg-dark'>$value->Nev</div>
+            <ul class='list-group list-group-flush'>
+            <li class='list-group
+            -item'>Nobel-díjay kapott: $value->Ev</li>
                 <li class='list-group
-                -item'>Díj: $value->díj</li>
-                    <li class='list-group
-                    -item'>Év: $value->év</li>
-                    <li class='list-group
-                    -item'>Ország: $value->ország</li>
-                </ul>
-            </div>
-        </div>";
+                -item'>Él(t): $value->SzuletesHalalozas</li>
+                <li class='list-group
+                -item'>Ország: $value->Orszag</li>
+            </ul>
+        </div>
+    </div>";
     }
 
     $list .= "</div>";

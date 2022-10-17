@@ -20,20 +20,34 @@
             fclose($f);
         }
 
-        public function getCountries()
-        {
+        public function getCountries() {
             $countries = array();
             foreach ($this->díjak as $value) {
-                $countries[] = $value->Orszag;
+                $country = $value->Orszag;
+                if (!in_array($country, $countries)) {
+                    $countries[] = $country;
+                }
             }
-            return array_unique($countries);
+            return $countries;
         }
 
-        public function filteredDíjakByDíjak($díjak) {
+        public function getDijazottNames()
+        {
+            $names = array();
+            foreach ($this->díjak as $value) {
+                $names[] = $value->Nev;
+            }
+            return $names;
+        }
+
+        public function filteredDíjakByCountry($díjNév) {
+            if ($díjNév == "A világ") {
+                return $this->díjak;
+            }
             $filtered = array();
-            foreach ($this->orszag as $value) {
-                if ($value->orszag == $díjak) {
-                    $filtered[] = $value;
+            foreach ($this->díjak as $díj) {
+                if ($díj->Orszag == $díjNév) {
+                    $filtered[] = $díj;
                 }
             }
             return $filtered;
@@ -42,11 +56,10 @@
         public function searchDíjak($díjak) {
             $filtered = array();
             foreach ($this->díjak as $value) {
-                if (stripos($value->name, $díjak) !== false) {
+                if (str_contains(strtolower($value->Nev), strtolower($díjak))) {
                     $filtered[] = $value;
                 }
             }
             return $filtered;
         }
     }
-?>
