@@ -1,6 +1,6 @@
 <?php
 class Country {
-    private $barmi;
+    // private $barmi;
     function __construct($fields, $row){
         $this->barmi = 'akarmi';
         // $this->fields = 'id;name;iso3;capital;currency;currency_name;currency_symbol;tld;native;region;subregion';
