@@ -31,15 +31,6 @@
             return $countries;
         }
 
-        public function getDijazottNames()
-        {
-            $names = array();
-            foreach ($this->díjak as $value) {
-                $names[] = $value->Nev;
-            }
-            return $names;
-        }
-
         public function filteredDíjakByCountry($díjNév) {
             if ($díjNév == "A világ") {
                 return $this->díjak;
